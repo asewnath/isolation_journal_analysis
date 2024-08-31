@@ -1,2 +1,3 @@
-# isolation_journal_analysis
-Sentiment analysis from the isolation journals
+# _The Isolation Journals_ Analysis
+
+Sentiment analysis processing for journal entries
